@@ -59,8 +59,7 @@ The database is composed of the following entities:
 
 ### Entity Relationship Diagram
 
-![ER Diagram](BikeSharing ER.png)
-
+![ER Diagram](er_diagram.png)
 ---
 
 ## Advanced SQL Features
